@@ -26,6 +26,18 @@ I will be creating an infographic which sequentially shows the following 5 steps
 # Step 6: Adding a box containing a number to each panel to show sequence of processes  
 <img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/0e9e8dbb-9368-4024-959c-59293917f638" />  
 
+# Step 7: Panel 1  
+I added two icons, one showing Arabidopsis leaves, and the other showing a blender. I connected them using and arrow and added a short text description.   
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/816504f7-9bdd-4cff-a3cf-b3d954fe8abd" />  
+
+# Step 8: Panel 2
+I added two icons, one showing the original crude extract in a Falcon Tube, and the other showing the result after differential centrifugation. The supernatant in the latter icon did not have a green tinge as shown in the pictures attached in the protocol, hence I added a translucent green rectangle over the supernatant to give the effect of green-tinged supernatant.  
+I connected the two icons using an arrow and wrote the different centrifugation settings given in the protocol.  
+I have used the graphic already given in the protocol as a reference.  
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/c989ec1c-c710-4b05-8c95-6f8b9a21140d" />  
+
+
+
 
 
 
