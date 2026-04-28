@@ -32,9 +32,18 @@ I added two icons, one showing Arabidopsis leaves, and the other showing a blend
 
 # Step 8: Panel 2
 I added two icons, one showing the original crude extract in a Falcon Tube, and the other showing the result after differential centrifugation. The supernatant in the latter icon did not have a green tinge as shown in the pictures attached in the protocol, hence I added a translucent green rectangle over the supernatant to give the effect of green-tinged supernatant.  
-I connected the two icons using an arrow and wrote the different centrifugation settings given in the protocol.  
+I connected the two icons using an arrow and wrote the different centrifuge settings given in the protocol.  
 I have used the graphic already given in the protocol as a reference.  
 <img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/c989ec1c-c710-4b05-8c95-6f8b9a21140d" />  
+
+# Step 9: Panel 3
+I added 3 icons— a syringe filter and an ultrafiltration tube (centrifugal filter) before and after filtration. To stay true to the supernatant colour in the pictures of the protocols, I added translucent green blobs like in Step 8. The green blob in the tube after filtration is slightly less transparent than the one before filtration. I did not add any green blob on the filtrate as it was transparent in the protocol as well.  
+I added a label next to the syringe filter showing its size, and an arrow connecting the ultrafiltration tube along with the centrifuge settings. 
+I have used the graphic already given in the protocol as a reference.  
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/aef99a83-883a-4910-8a61-1fad7fd2c554" />  
+
+# Step 10: Panel 4  
+
 
 
 
